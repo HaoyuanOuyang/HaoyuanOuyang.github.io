@@ -19,7 +19,7 @@
 currentlt I am an undergraduate student in South China University of Technology, School of Software Engineering. And I am admitted to Nanjing University, School of Computer Science and Technology without entrance examination.
 
 ### Contact information
-Email: seouyanghaoyuan@mail.scut.edu.com
+Email: seouyanghaoyuan@mail.scut.edu.cn
 
 Address: University Town Campus of South China University of Technology
 
