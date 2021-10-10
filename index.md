@@ -16,7 +16,7 @@
 
 
 ### Biography
-currentlt I am an undergraduate student in South China University of Technology, School of Software Engineering. And I am admitted to Nanjing University, School of Computer Science and Technology without entrance examination.
+Currently I am an undergraduate student in South China University of Technology, School of Software Engineering. And I am admitted to Nanjing University, School of Computer Science and Technology without entrance examination.
 
 ### Contact information
 Email: seouyanghaoyuan@mail.scut.edu.cn
